@@ -13,5 +13,5 @@ android {
 
 dependencies {
     implementation 'androidx.core:core:1.12.0'
-    api 'com.github.XuanDuLe:PdfiumAndroidKt:b8bd10fe1b'
+    api 'com.github.XuanDuLe:pdfiumandroid:0.1'
 }
